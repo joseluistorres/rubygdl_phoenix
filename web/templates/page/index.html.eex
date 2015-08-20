@@ -1,0 +1,15 @@
+<div class="jumbotron">
+  <h2>Bienvenidos a RubyGDL!</h2>
+  <p class="lead">A productive web framework that<br />does not compromise speed and maintainability.</p>
+  <div class="row">
+    <div class="col-lg-12">
+    <h4>Chat Messages Below</h4>
+    <div class="alert container" id="messages"></div>
+    <input id="chat-input" type="text"></input>
+  </div>
+  </div>
+</div>
+
+<div class="row">
+Hola amigos
+</div>
